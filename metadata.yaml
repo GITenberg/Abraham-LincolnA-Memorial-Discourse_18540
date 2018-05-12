@@ -1,0 +1,30 @@
+_repo: Abraham-LincolnA-Memorial-Discourse_18540
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eddy, T. M. (Thomas Mears)
+    alias: Eddy, Thomas Mears
+    birthdate: 1823
+    deathdate: 1874
+    gutenberg_agent_id: '8097'
+    url: http://www.gutenberg.org/2009/agents/8097
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Mears_Eddy
+description: ''
+gutenberg_issued: '2006-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18540'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Lincoln, Abraham, 1809-1865'
+title: 'Abraham Lincoln
+
+  A Memorial Discourse'
+url: http://www.gutenberg.org/ebooks/18540
